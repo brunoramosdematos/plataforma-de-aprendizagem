@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "tcc_user",
+    "password": "tcc_password",
+    "database": "tcc",
+    "host": "mysql_db",
+    "dialect": "mysql"
+  }
+}

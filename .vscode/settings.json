@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mysql_db",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "TCC MySQL",
+            "database": "tcc",
+            "username": "tcc_user",
+            "password": "tcc_password"
+        }
+    ]
+}
